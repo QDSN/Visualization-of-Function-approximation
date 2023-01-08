@@ -1,5 +1,5 @@
 # Visualization-of-Function-approximation
-y=f(x)が多層パーセプトロンによって学習を経て近似される様子を可視化します。
-## 使い方
-xy平面（キャンバス）内にクリックで点を打ち込みMLPのボタンを押すと打ち込んだ点を学習データとして多層パーセプトロンが学習されます。
-ハイパーパラメータ（隠れ層のユニット数、学習率）はスライダーで調節できます。
+Visualize how y=f(x) is approximated by the multilayer perceptron through training.
+## Usage
+Click on a point in the xy-plane (canvas) and press the MLP button to train a multilayer perceptron using the point as training data.
+The hyperparameters (number of hidden layer units, learning rate) can be adjusted with sliders.
